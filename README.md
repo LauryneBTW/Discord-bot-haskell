@@ -1,2 +1,4 @@
 # Discord-bot-haskell
-Un simple exemple de bot discord en haskell avec une commande ping
+Simple discord bot in haskell with ping command
+
+Edit the token in `token.txt` and the prefix in `prefix.txt`
